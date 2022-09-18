@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="letter">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+    </string-array>
+
+    <string-array name="word">
+        <item>Ayam</item>
+        <item>Anak-anak</item>
+        <item>Anggur</item>
+        <item>Adik</item>
+        <item>Bab</item>
+        <item>Buka</item>
+        <item>Banyak</item>
+        <item>Bersama</item>
+        <item>Cara</item>
+        <item>Cikal</item>
+        <item>Corak</item>
+        <item>Cerai</item>
+        <item>Dahi</item>
+        <item>Damai</item>
+        <item>Denah</item>
+        <item>Dustin</item>
+        <item>Each</item>
+        <item>Evaluate</item>
+        <item>Emerge</item>
+        <item>Estimate</item>
+        <item>Fragment</item>
+        <item>Frame</item>
+        <item>Fetch</item>
+        <item>Fork</item>
+        <item>Get</item>
+        <item>Geek</item>
+        <item>Garbage</item>
+        <item>Greek</item>
+        <item>Hash</item>
+        <item>Hilt</item>
+        <item>Hope</item>
+        <item>Heap</item>
+        <item>Injection</item>
+        <item>Iteration</item>
+        <item>If Else</item>
+        <item>Interface segregation</item>
+        <item>Jetpack</item>
+        <item>Justice</item>
+        <item>Java</item>
+        <item>Jasa</item>
+        <item>Kota</item>
+        <item>Koi</item>
+        <item>Kamu</item>
+        <item>Komunitas</item>
+        <item>Lalat</item>
+        <item>Ludah</item>
+        <item>Lama</item>
+        <item>Lengkap</item>
+    </string-array>
+</resources>
